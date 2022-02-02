@@ -1,0 +1,1 @@
+Exercício de treinamento com JavaScript, que visa a construção de um temporizador simples.
